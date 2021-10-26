@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+ display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: rgba(87, 20, 78, 0.794);
+  
 }
 
 .App-logo {
@@ -35,4 +39,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.avatar{
+  height: 75px;
+
+}
+.user {
+  border: 2px solid brown;
+  border-radius: 50px;
+  margin: 40px;
+  min-width: 25vw;
+  text-align: center;
 }
