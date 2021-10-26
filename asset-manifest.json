@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/design-mock/static/css/main.c8a5a9c2.chunk.css",
+    "main.js": "/design-mock/static/js/main.6bc8e81d.chunk.js",
+    "main.js.map": "/design-mock/static/js/main.6bc8e81d.chunk.js.map",
+    "runtime-main.js": "/design-mock/static/js/runtime-main.bb4e2777.js",
+    "runtime-main.js.map": "/design-mock/static/js/runtime-main.bb4e2777.js.map",
+    "static/js/2.baa6f498.chunk.js": "/design-mock/static/js/2.baa6f498.chunk.js",
+    "static/js/2.baa6f498.chunk.js.map": "/design-mock/static/js/2.baa6f498.chunk.js.map",
+    "static/js/3.73b13df8.chunk.js": "/design-mock/static/js/3.73b13df8.chunk.js",
+    "static/js/3.73b13df8.chunk.js.map": "/design-mock/static/js/3.73b13df8.chunk.js.map",
+    "index.html": "/design-mock/index.html",
+    "static/css/main.c8a5a9c2.chunk.css.map": "/design-mock/static/css/main.c8a5a9c2.chunk.css.map",
+    "static/js/2.baa6f498.chunk.js.LICENSE.txt": "/design-mock/static/js/2.baa6f498.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb4e2777.js",
+    "static/js/2.baa6f498.chunk.js",
+    "static/css/main.c8a5a9c2.chunk.css",
+    "static/js/main.6bc8e81d.chunk.js"
+  ]
+}
